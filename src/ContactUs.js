@@ -80,7 +80,7 @@ function ContactUs() {
         <div>
           <label htmlFor='comments'>Comments:</label>
           {/* text field */}
-          <textArea 
+          <textarea 
             id='comments'
             name='comments'
             type='text'
